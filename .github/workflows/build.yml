@@ -30,4 +30,4 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: Servis_Benzoinstrument_EXE
-        path: dist/Servis_Benzoinstrument.exe
+        path: dist/Servis_Benzoinstrument.exe 
